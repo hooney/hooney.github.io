@@ -1,2 +1,0 @@
-I"_<p>지난 주 화요일(2010.11.30)에 <a href="http://wordpress.org/news/2010/11/wordpress-3-0-2/">워드프레스가 3.0.2로 업데이트</a>됐습니다. 이번 업데이트는 <a href="http://isc.sans.edu/diary.html?storyid=10021">SQL 인젝션 보안 위험</a>에 따른 것으로, 의무사항입니다. 이는 사용자 권한에 대한 취약점으로, 팀 블로그처럼 다중 사용자가 운영하는 블로그라면 반드시 업데이트해야 합니다. 자세한 내용은 <a href="http://codex.wordpress.org/Version_3.0.2">워드프레스 공식문서(codex)</a>를 참조하세요.</p>
-:ET
