@@ -1,0 +1,21 @@
+I"�<p>Hooney.net 블로그를 오픈한지 이제 겨우 2달이 못됐습니다. 처음과 달리 작성하는 글의 양이나 질 모두 예전보다 못한 것 같습니다. 현재 사용중인 <a href="http://www.hannal.com/blog/hannal_counter/">WP 플러그인 형식의 한날 카운터</a>에 의하면, 최근 음악 바톤 이어받기와 관련된 글의 여파인지 일일 방문자가 1000명을 넘어서고 있더군요. 제작자님께 질문하지 않았지만, 중복체크가 안된 것 같습니다. 제 블로그에 1000명의 방문자가 방문한다는 사실이 도저히 믿기지 않기 때문입니다. ㅠ.ㅠ</p>
+
+<p><a href="http://www.blogcounter.de/"><img src="/files/img/2005-05/blogcounterlogo.gif" alt="이넘이 그 블로그 전용 카운터야?" height="57" width="282" /></a></p>
+
+<p>그러던중 우연히 웹서핑 중에 블로그 전용 웹 카운터를 제공해주는 <a href="http://www.blogcounter.de/">독일에 있는 Blog Counter</a>라는 사이트를 발견하게 되었습니다. 최근 해외 블로그들 사이에서 유행이었던 <a href="http://www.feedburner.com/fb/a/home">Feed Burner(RSS 전문 카운터)</a>처럼, 80×15 사이즈의 블로그 전용 배너 형식으로 카운터를 제공해주는 점이 매력적입니다. 간단한 절차(국내 포털사이트처럼 주민등록번호나 주소 등의 개인정보를 요구하지 않습니다. 단 확인 이메일만 수신하면 됩니다.)를 통과하면, 오른쪽 아래와 같은 배너 형식의 카운터를 제공해줍니다. 예쁘죠?</p>
+
+<p><img class="left" src="/files/img/2005-05/blogcounter.gif" alt="블로그 카운터 6종 스킨 세트" height="120" width="90" /> 오른쪽 이미지와 같이 6 종류의 배너 형식을 지원하고 있습니다. style=1~6의 숫자를 통해서 쉽게 배너 모양을 바꿀 수 있는 점이 매력적이네요. 사용자 언어 설정에서 무려 20여 언어를 지원하고 있지만, 아쉽게도 한국어는 지원하지 않습니다. 영어도 아닌 독일어 사이트다 보니 약간의 어려운 점이 있겠지만, 통계 확인하는데 거의 문제가 되진 않을 것 같습니다.</p>
+
+<p>배너를 클릭하면, 카운터 홈페이지에 들어갈 수 있습니다. 로그인하면 자세한 통계를 확인할 수 있는데, 웹페이지 주소를 각각 입력함으로써 메인 페이지 외에도 다른 페이지들의 통계도 확인할 수 있습니다. 아직 정확하게 확인해보지 못했지만, 직접 주소를 입력해야만 하는 문제 때문에 글 개별에 대한 통계는 한날 카운터와 같은 WP 전용 플러그인을 사용하는 게 편리할 것 같습니다. 제공하는 카운터 기능은 아래와 같습니다.</p>
+
+<ul>
+  <li><strong>multi-page Top 25</strong><br />
+Top 30 Referer, Top 30 domains, Top 10 Bildschirmauflösungen, Top 5 Farben, territories, Die letzten 30 Referer, Top 40 keywords</li>
+  <li><strong>Grafischer Statistiküberblick</strong><br />
+Browser &amp; Betriebssysteme, Top 40 Browser/OS, Browser, Betriebssystem, Top 20 Suchmaschinen</li>
+</ul>
+
+<p>특히 테러리스트라는 기능이 독특합니다. 아마.. 스팸성 리퍼러들을 정리해 놓은 것 같습니다. 또한 브라우저 종류나 해상도, OS 종류에 관한 통계 분석은 블로그 테마 제작에 유용한 자료가 될 것 같습니다.</p>
+
+<p>카운터 때문에 괜히 신경 쓰는 건 싫지만, 많은 사람들과 유익한 정보를 공유하려던 블로거 생활 초심으로 돌아갈 겸 해서 이렇게 카운터를 달아봅니다. 이 카운터의 장점은 이미지만 하나 집어 넣는 형식이기 때문에, 배너 삽입이 가능한 서비스형 블로그에서도 유용하게 사용할 수 있을 것 같습니다.</p>
+:ET

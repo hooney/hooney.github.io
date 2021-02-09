@@ -1,0 +1,6 @@
+I"�<p><strong>웹디자인을 하면서 글꼴(폰트) 크기를 표현하는 방법에는 pt, px, em, % 가 있다.</strong> 나는 이미지 사용이나 기존 테이블 레이아웃을 할 때의 습관으로 px 를 주로 사용하는 편이다. 하지만 해외 웹사이트의 대부분이 em 을 사용하며, 유동성 부분 때문에 em이 표준으로 자리잡아가고 있다.</p>
+
+<p><a href="http://www.reeddesign.co.uk/test/points-pixels.html">REEDdesign</a> 사이트에 이들 수치에 대한 비교표가 있다.</p>
+
+<p><img src="/files/img/2005-04/pixeltoem.gif" alt="픽셀과 포인트, em의 비교표" height="560" width="398" /></p>
+:ET

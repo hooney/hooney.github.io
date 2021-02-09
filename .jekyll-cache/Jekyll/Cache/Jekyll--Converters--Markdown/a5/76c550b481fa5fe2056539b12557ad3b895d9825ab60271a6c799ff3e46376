@@ -1,0 +1,2 @@
+I"�<p><a href="http://www.communitymx.com/content/article.cfm?page=2&amp;cid=E2F258C46D285FEE">웹브라우저는 문서형식(Doctype)에 따라 CSS나 DOM(Javascript)을 다르게 해석하고 있다.</a> 즉, Strict 문서형식에서는 CSS나 DOM을 W3C의 권고안에 맞게 웹페이지를 랜더링하지만, Transitional 문서형식에서는 각 브라우저마다 제각각 랜더링하고 있다.</p>
+:ET

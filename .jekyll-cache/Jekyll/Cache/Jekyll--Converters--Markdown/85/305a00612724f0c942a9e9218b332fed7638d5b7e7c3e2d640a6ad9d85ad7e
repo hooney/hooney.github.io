@@ -1,0 +1,28 @@
+I"�<p>Hack이랄 것도 없지만, 워드프레스에서 글을 작성할 때 유용하게 사용하는 퀵태그를 수정하거나 추가할 수 있다. 테터툴의 에디터 기능 정도는 퀵태그 추가로 충분히 대처할 수 있을 것이다.</p>
+
+<p><a href="/files/img/2005-04/scs-update.gif"><img src="/files/img/2005-04/_scs-update.gif" width="300" height="103" alt="퀵태그를 첨부한 스크린샷" /></a></p>
+
+<p>http://자신의블로그주소/wp-admin/quicktag.js 파일을 텍스트에디터 등으로 열어보면,</p>
+
+<pre>edButtons[edButtons.length] = 
+new edButton('ed_strong'
+,'str' //퀵태그 툴바의 버튼에 보여지는 이름
+,'<strong>' //태그의 시작
+,'</strong>' //태그의 끝
+,'b' // 단축키
+);</pre>
+
+<p>형식의 변수선언을 발견할 수 있다.</p>
+
+<p>필요에 따라 단축키를 수정할 수 있는데, 나는 이전에 썼던 글을 수정할 때 그 내역을 표기하기 위해서 update라는 퀵태그를 추가했다.</p>
+
+<pre>edButtons[edButtons.length] = 
+new edButton('ed_update'
+,'update'
+,''
+,''
+,'t'
+);</pre>
+
+<p>이런 방법으로 간단하게 퀵태그를 추가할 수 있다.</p>
+:ET

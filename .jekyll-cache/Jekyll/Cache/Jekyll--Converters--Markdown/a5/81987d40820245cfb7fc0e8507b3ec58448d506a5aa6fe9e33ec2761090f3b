@@ -1,0 +1,2 @@
+I"�<p>dojo 자바스크립트 툴킷이 <a href="http://blog.dojotoolkit.org/2007/02/04/dojoquery-a-css-query-engine-for-dojo">dojo.query</a>라는 dojo를 위한 CSS Query Engine을 공개했다. CSS Query Engine이란 HTML DOM structures를 CSS 선택자로 접근할 수 있도록 하여, 보다 쉽고 빠르며 효율적으로 DOM을 이용할 수 있는 방법을 제공한다.</p>
+:ET

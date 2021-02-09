@@ -1,0 +1,30 @@
+I"�
+<p>워드프레스 미트업 서울 2011에서 “나만의 워드프레스 디자인을 위한, WordPress Child Theme”라는 주제로 발표한 자료를 공유합니다.</p>
+
+<div id="__ss_10339361" style="width: 600px;">
+  <p>
+    <strong style="display: block; margin: 12px 0 4px;"><a title="Word press child theme" href="http://www.slideshare.net/hooney/word-press-child-theme" target="_blank">Word press child theme</a></strong>
+  </p>
+  
+  <div style="padding: 5px 0 12px;">
+    View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/hooney" target="_blank">Jo Hoon</a>
+  </div>
+</div>
+
+<p>개념적으론, 기존에 존재하는 테마를 참고하여 테마를 제작할 때, 참고한 테마를 부모 테마라고 하고, 참고해서 새로 제작될 테마를 자식 테마라고 합니다. 대부분의 테마를 제작할 때, 무에서 유를 창조하는 방식보다는 기존에 존재하는 테마를 참고하는 경우가 대부분이기 때문에, 워드프레스 테마 제작에서 반드시 거치는 단계라고 볼 수 있습니다.</p>
+
+<p>이러한 부모/자식 테마 제작 방식은 플러그인 개발 방식과 유사합니다. 코어 코드를 참고로 새로운 기능을 추가하는 플러그인 개발처럼, 부모 테마를 참고로 새로운 테마를 제작하기 때문입니다.</p>
+
+<p>템플릿용 테마라고 부르는 부모 테마 전용의 테마도 있는데, 이를 이용하여 자식 테마를 제작할 땐, 부모 테마의 다양한 기능/디자인 API를 이용하여 보다 쉽게 자식 테마를 만들 수 있습니다. 이는 워드프레스 코어 템플릿 외에도 다양한 부모 테마를 기반으로 새로운 테마를 제작하는 방식을 제공하는 것으로, 보다 쉽고 빠르게 자신만의 테마를 만들 수 있도록 도움을 줍니다.</p>
+
+<p>구글/페이스북/트위터 및 다음/네이버/파란 등 다수의 웹 서비스 회사에서 제공하는 API도 보다 확장 가능하고 실무 예제 중심으로 제공되면 좋겠습니다.</p>
+
+<p>워드프레스 행사에 대한 소개는 아래와 같으며, 자세한 내용은 <a href="http://wordcamp.wordpress.kr/">공식 홈페이지</a>에서 확인할 수 있습니다.</p>
+
+<ul>
+  <li>일시: 2011년 11월 26일 토요일 오후 1시</li>
+  <li>장소: 서울시 용산구 한남동 <a href="http://info.daum.net/Daum/info/comingWay.do">다음 커뮤니케이션</a> 일신홀 – <a href="http://place.daum.net/place/PointView.do?confirmid=7813422" target="_blank">약도 및 교통정보 (다음 플레이스)</a></li>
+  <li>회비: 5천원</li>
+  <li>참석인원: 180명 중 약 80% 이상이 참석하였습니다.</li>
+</ul>
+:ET

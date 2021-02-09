@@ -1,0 +1,27 @@
+I"<p>어제(5월 9일) 날짜로 WP 공식 홈에서 1.51 업그레이드판을 공개됐네요. <a href="http://codex.wordpress.org/Changelog/1.5.1">WP-Codex의 Changelog/1.51</a>에 의하면, 다음 사항이 수정/변경됐습니다.</p>
+
+<ul>
+  <li>Login and feed fixes for IIS</li>
+  <li>Faster gettext i18n</li>
+  <li>Improved i18n string coverage</li>
+  <li>Extended ping support</li>
+  <li>Paging on the Manage-&gt;Posts page</li>
+  <li>URI-safe accent stripping for all UTF-8 characters in the Latin Extended-A Unicode block</li>
+  <li>Query string style argument list support for wp_get_links() and wp_get_linksbyname()</li>
+  <li>Improved hierarchy listing in wp_list_pages()</li>
+  <li>Support for a Status: theme header field that allows themes to be marked as private, publish, or draft</li>
+  <li>Improved caching and database query reduction</li>
+  <li>Active plugin and theme highlighting</li>
+  <li>Plugins can now have multiple option pages</li>
+  <li>Pingbacks now work on hosts with fopen off like Dreamhost</li>
+  <li>Many bug fixes</li>
+</ul>
+
+<p>WP 1.5에서 대부분의 파일들이 수정됐으며, /wp-includes/pluggable-functions.php이란 파일이 한 개 더 생겼군요.</p>
+
+<p>그동안 제 블로그는 Plug-in 형식의 Extention이 아닌 Hack 형식으로 많은 WP 파일들을 수정해왔기에, 업그레이드에 대한 적지 않은 부담감이 생깁니다. ㅜ.ㅜ</p>
+
+<p>라고 말해놓고 1시간도 지나지 않아 바로 업데이트 해버렸습니다. 발생하는 문제들은 차차 해결해 가겠습니다. ^^;</p>
+
+<p>가급적 <a href="http://www.hof.pe.kr/archives/1156/">@hof님</a>의 글처럼 데이터베이스와 기존파일을 백업한 후에 업데이트할 것을 권합니다. 그렇지 않으면, 저처럼 후회합니다. ㅜ.ㅜ</p>
+:ET

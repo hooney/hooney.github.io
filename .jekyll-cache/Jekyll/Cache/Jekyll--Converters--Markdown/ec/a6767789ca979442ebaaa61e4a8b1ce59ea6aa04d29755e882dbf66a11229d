@@ -1,0 +1,10 @@
+I"e<p>물론 있다. 엄청 많다. 특히 IE의 표준을 무시하는 처사때문에 더더욱 많게 느껴질 것이다. FF에서는 이미 지원하고 있는 <a href="http://trio.co.kr/webrefer/css2/generate.html">CSS2의:after, :before, contents</a> 요소라도 IE가 제대로 지원한다면 CSS 웹디자인은 훨씬 자유로워질 것이다.</p>
+
+<p>현재 논의 중인 CSS3에서는 멀티 백그라운드 이미지도 지원한다고 한다. 상상만으로도 즐거울 뿐이다. 아무래도 몇년 뒤에는 지금보다 웹디자인이 훨씬 편해질 것 같다.</p>
+
+<p>델리셔스(del.icio.us)를 통해서 <a href="http://www.webreference.com/programming/css_gallery/index.html">How to Create a Photographic Gallery Using CSS</a> 라는 웹페이지에 들어갈 수 있었다. 한마디로 놀라웠다. 정말 자바스크립트를 사용하지 않고 CSS만으로 <a href="http://www.webreference.com/programming/css_gallery/examples/gallery.htm">사진 갤러리</a>를 훌륭하게 표현해 놓았다.</p>
+
+<p><strong>CSS의 포지셔닝기술</strong>(내생각엔 CSS의 고급 기술)을 잘 활용하고 있었다. xhtml+css의 특성상 소스도 단순하고, 이해하기 쉽게 개발자가 예제와 함께 설명도 해주었다.</p>
+
+<p>밤이 늦은 시간이긴 하지만, 델리셔스에 가길 잘 했다는 생각이 든다. ^o^</p>
+:ET

@@ -1,0 +1,32 @@
+I"�<p>워드프레스에서는 RSS feed를 RSS 0.92, RSS 2.0, ATOM 0.3의 3가지 형식으로 제공하고 있다. 어제 RSS 주소와 관련된 글을 쓰면서 이들 3종류의 차이가 무엇일까 궁금해서 블로그라인에 모두 추가시켜 봤다.</p>
+
+<p>오늘 아침에 확인해보니 RSS의 형식에 따라 수집하는 방법의 차이가 있었다. 현재 Hooney.net 블로그의 RSS feed는 전체글 보여주기와 브라우저의 요청이 있으면 압축해서 보여주기로 설정되어 있다.</p>
+
+<h3 id="블로그라인에서-수집한-hooneynet의-rss-092-feed-">블로그라인에서 수집한 Hooney.net의 RSS 0.92 feed :</h3>
+
+<p><a href="/files/img/2006-06/r-ss2.png"><img src="/files/img/2006-06/_r-ss2.png" width="500" height="167" alt="R_SS 0.92" /></a></p>
+
+<h3 id="블로그라인에서-수집한-hooneynet의-rss-20-feed-">블로그라인에서 수집한 Hooney.net의 RSS 2.0 feed :</h3>
+
+<p><a href="/files/img/2006-06/r-ss.png"><img src="/files/img/2006-06/_r-ss.png" width="500" height="257" alt="R_SS 0.92" /></a></p>
+
+<h3 id="블로그라인에서-수집한-hooneynet의-atom-03-feed-">블로그라인에서 수집한 Hooney.net의 ATOM 0.3 feed :</h3>
+
+<p><a href="/files/img/2006-06/a-torm.png"><img src="/files/img/2006-06/_a-torm.png" width="500" height="257" alt="A_TORM 0.3" /></a></p>
+
+<p>워드프레스의 RSS feed 중에서 기본형인 RSS 2.0의 경우, 설정한 것처럼 글쓴이, 분류와 전체글을 보여준다. 또한 답글 쓰기 링크도 걸려 있다. 하지만 RSS 0.92는 글의 일부분만 보여주고 있고, 줄바꿈이나 문단형식을 삭제하고 보여주고 있다. 그리고, ATOM 0.3은 RSS 0.92 기반의 전체글을 보여주면서 글 아래에 태그도 보여주고 있다.</p>
+
+<p>워드프레스에서 태그기능은 자체지원이 아닌 플러그인 형식의 지원이기 때문에, ATOM 코드를 만들어주는 파일(wp-atrom.php)에 태그에 대한 지정이 없다. 즉 ATOM 스스로 태그를 보여주는 것이다. 물론 RSS 리더기마다 RSS를 수집하는 방식이 다르겠지만, 블로그라인이 가장 많은 사람들이 사용하는 RSS 구독기라는 점을 생각해보면 이들 feed 형식의 차이가 분명하다.</p>
+
+<p><del datetime="2005-06-18T10:45:45+00:00">참고로, 많은 사람들이 RSS 2.0 프로토콜이 가장 최근에 만들어진 것으로 알고 있는데, 사실은 RSS 2.0 -&gt; RSS 0.92 순서로 개발됐다. 아직 RSS 0.92나 ATOM 0.3을 읽지 못하는 RSS 구독기가 많아서 RSS 2.0이 많이 사용되는 것 같다.</del></p>
+
+<p><a href="http://pionelle.net/2005/06/18/35">피오넬님 글</a>에 의하면, ATOM이 표준으로 채택될 것 같다고 한다. RSS나 ATOM에 상관없이 많은 사람들이 Hooney.net을 XML(이라고 하는 게 옳은지.. ^^;)을 구독했으면 좋겠당~</p>
+
+<div>
+  Cerprix님과 피오넬님이 답글과 트랙백을 통해서 RSS에 대해서 자세한 설명해주었습니다. RSS에 대한 자세한 설명은 피오넬님의 글에서 확인하세요.&lt;/p&gt; 
+  
+  <p>
+    J님의 지적처럼, RSS 이미지 순서가 바꼈습니다. 아침에 잠이 덜 깬 상태에서 글을 썼는지 실수가 많네요. ㅜ.ㅜ
+  </p>
+</div>
+:ET

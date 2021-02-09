@@ -1,0 +1,77 @@
+I"N<p><a href="http://uiacademy.co.kr/">UI Academy</a>에서 <a href="http://www.kado.or.kr/">한국정보문화진흥원(KADO)</a>와 <a href="http://www.cidow.com/">CIDOW</a> 후원으로 Global Web Expert 실무 워크샾이 진행됩니다. 벌써 3회째인 이번 워크샵은 매달 이틀에 걸쳐 진행되고 있으며, 신사동에 있는 UI Academy에서 진행됩니다.</p>
+
+<p><img src="/uploads/2006/global-web-expert.png" alt="global-web-expert" height="300" width="500" /></p>
+
+<p>엑스비젼의 김정호 팀장님과 한국정보문화진흥원의 현준호 연구원님, 시도우의 <a href="http://hyeonseok.com/">신현석</a> 팀장님과 제가 강사로 참여하고 있으며, 이번엔 메가존의 퍼블리싱팀장인 <a href="http://blog.naxer.net">조현진</a>님도 함께 강의할 예정입니다.</p>
+
+<p>지난 2회까지 진행했던 강의를 토대로 이번에 전체적인 강의 내용과 방법이 크게 수정됐습니다. 그 중에서 제가 진행할 강의 내용을 목차로나마 살짝 알려드립니다.</p>
+
+<h3 id="css-디자인-고급-스킬-및-css-zen-garden-따라잡기">CSS 디자인 고급 스킬 및 CSS Zen Garden 따라잡기</h3>
+
+<ol>
+  <li>CSS의 이해
+    <ul>
+      <li>Cascade</li>
+      <li>Inherit</li>
+      <li>CSS Process</li>
+    </ul>
+  </li>
+  <li>CSS Design의 원칙
+    <ul>
+      <li>Forward and backward compatibility</li>
+      <li>Complementary to structured documents</li>
+      <li>Vendor, platform, and device independence</li>
+      <li>Maintainability</li>
+      <li>Simplicity</li>
+      <li>Network performance</li>
+      <li>Flexibility</li>
+      <li>Richness</li>
+      <li>Alternative language bindings</li>
+      <li>Accessibility</li>
+    </ul>
+  </li>
+  <li>Style의 4가지 원천
+    <ul>
+      <li>OS Style</li>
+      <li>UA Style</li>
+      <li>Author Style</li>
+      <li>User Style</li>
+    </ul>
+  </li>
+  <li>Dynamic Style
+    <ol>
+      <li>User Style의 예제</li>
+      <li>CSS + Javascript</li>
+    </ol>
+  </li>
+  <li>CSS Design 과정
+    <ul>
+      <li>HTML -&gt; CLASS -&gt; ID</li>
+      <li>layout</li>
+      <li>box model</li>
+      <li>foront/background-color, image</li>
+      <li>text</li>
+      <li>font</li>
+      <li>media type</li>
+    </ul>
+  </li>
+  <li>실전 CSS Zen Garden 따라잡기
+    <ul>
+      <li>Styling to Structured Contents</li>
+      <li>Browser base Web Design</li>
+      <li>Utility</li>
+      <li>IE bug/hack</li>
+    </ul>
+  </li>
+  <li>접근성을 향상시키기 위한 CSS 제작 방법
+    <ul>
+      <li>CSS의 한계와 초월</li>
+      <li>단위의 사용</li>
+      <li>CSS Media Tpye</li>
+      <li>CSS Aural 속성</li>
+    </ul>
+  </li>
+</ol>
+
+<p>저 뿐만 아니라 신현석 팀장님이나 조현진 팀장님도 멋진 강의안을 준비했으니, 관심있는 많은 분들의 참여 바랍니다. (광고 끝 ^^)</p>
+:ET

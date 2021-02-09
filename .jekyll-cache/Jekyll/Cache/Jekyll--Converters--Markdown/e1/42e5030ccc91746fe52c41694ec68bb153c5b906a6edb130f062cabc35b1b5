@@ -1,0 +1,22 @@
+I"�<p>워드프레스 한글판을 설치해도 몇몇 영문들은 수정이 되지 않는다. 그 중에서 more 퀵태그를 사용할 경우 화면에는 (…more) 라고 표시되는 것을 알 수 있다.</p>
+
+<p>블로그 이용에 전혀 불편함은 없지만, 이 부분까지 한글이나 기타 단어로 수정할 수 있다. 자신의 http://블로그주소/wp-includes/template-functions-post.php 파일을 텍스트에디터 등으로 열어서 60번째 줄과 67번째 줄의 (more…)부분만 자신에 기호에 따라 수정하면 된다.</p>
+
+<p>60번째 줄 :</p>
+
+<pre>function the_content($more_link_text = '(more...)', $stripteaser = 0, $more_file = '') {
+    $content = get_the_content($more_link_text, $stripteaser, $more_file);
+    $content = apply_filters('the_content', $content);
+    $content = str_replace('', ']]&gt;', $content);
+    echo $content;
+}</pre>
+
+<p>67번째 줄 :</p>
+
+<pre>function get_the_content($more_link_text = '(more...)', $stripteaser = 0, $more_file = '') {
+
+    global $id, $post, $more, $single, $withcomments, $page, $pages, $multipage, $numpages;
+    global $preview;
+    global $pagenow;
+    $output = '';</pre>
+:ET

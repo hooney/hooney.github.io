@@ -1,0 +1,12 @@
+I"Q<p><a href="http://www.bloggingpro.com/archives/2005/03/01/wordpress-15-speedup/">Blogging Pro</a>에 의하면, 전혀 느끼지도 못했던 사실이지만, 영어에 비해서 다른(한국어 포함) 언어를 사용하는 워드프레스의 속도가 느리다고 한다.</p>
+
+<blockquote>
+  <p>As anyone who uses foreign language support in WordPress 1.5 may have noticed, switching to language to something other than english slows down WordPress. On my server, no request was finished in under 2 seconds.</p>
+</blockquote>
+
+<p>이에 대한 Hack이 나왔는데, <a href="http://www.m-e-x.de/blog/index.php/archives/2005/03/01/wordpress-15-speedup/">제작자(독일인으로 추정)의 블로그</a>에 가서 확인해보니 중국인으로 추정되는 다른 블러거들은 이미 사용하고 있는 것 같다.</p>
+
+<p>이에 나도 질 수 없어 트랙백을 날리긴 했는데, 블로그 관리자의 승인이 필요한지 아직 확인이 되진 않는다.</p>
+
+<p><em>05-04-06제작자 홈페이지에 방문해 보니 트랙백이 걸려 있다. 내가 3번째다. ㅎㅎ</em></p>
+:ET

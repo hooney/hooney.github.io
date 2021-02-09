@@ -1,0 +1,2 @@
+I"�<p>So-Basic 테마의 CSS는 공개용의 경우 screen과 print용 2종류의 미디어 형식으로 배포되고 있지만, 내가 사용하고 있는 것은 오직 screen용 하나뿐이다. 솔직히 프린트용 외에는 별도의 CSS의 필요성을 느끼지 못했던 나였지만, TJpak님께서 <a href="http://www.tjpark.com/web2/board/view.php?db=us&amp;cn=11">Hooney.net 블로그를 PDA에서 테스트한 글</a>을 보고 인식이 많이 바뀌게 됐다. 특히 <a href="/archives/2005/06/26/current-reading-css-book/">Eric Meyer의 Cascading Style Sheets, 2nd Edition</a>라는 책을 보면서 외부 스타일시트의 미디어 종류와 역할 등을 자세히 알게됐다.</p>
+:ET

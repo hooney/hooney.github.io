@@ -1,0 +1,35 @@
+---
+id: 795
+title: 네이버와 다음의 와이어프레임(wireframe) 쉽게 확인하기
+date: 2011-01-13T11:09:38+09:00
+author: Hooney
+layout: post
+guid: http://hooney.net/?p=795
+permalink: /post/795
+categories:
+  - 웹 디자인
+  - 추천/리뷰
+  - 후니넷
+---
+웹 사이트나 서비스를 제작할 때, 보통 정보 설계 다음 과정으로 와이어프레임(wireframe)을 제작하게 됩니다. 와이어프레임에 대해선 위키피디어는 [다음](http://en.wikipedia.org/wiki/Website_wireframe) 같이 정의하고 있습니다.
+
+A website wireframe (also &#8220;web wire frame&#8221;, &#8220;web wireframe&#8221;, &#8220;web wireframing&#8221;) is a basic visual guide used in interface design to suggest the structure of a website and relationships between its pages. A webpage wireframe is a similar illustration of the layout of fundamental elements in the interface . Typically, wireframes are completed before any artwork is developed.
+
+많은 분들이 와이어프레임을 제작하는데 파워포인트(PowerPoint, MS)를 사용하지만, 전문(용) 도구가 아니다보니 생산성이 떨어지는 게 사실입니다. 이를 위해 [전용 도구](http://uxfactory.com/787)를 사용하기도 하지만, 100% 만족감을 보장받긴 어렵습니다.
+
+그런측면에서, [Wirify](http://www.volkside.com/tools/wirify/)는 웹 페이지의 와이어프레임을 쉽게 만들고 비교할 수 있는 유용한 도구입니다. 또한, 자바스크립트로 구현된 북마클릿 형식이기에 클릭 한번으로도 쉽게 이용할 수 있습니다. 
+
+아래와 같이, 네이버와 다음의 와이어프레임을 Wifity로 확인하고 비교해볼 수 있습니다.
+
+## 네이버의 와이어프레임:
+
+URL &#8211; <http://naver.com>
+
+<a href="/2011/01/13/795/wireframe-naver/" rel="attachment wp-att-798"><img src="/wp-content/uploads/2011/01/wireframe-naver-600x887.gif" alt="" title="wireframe-naver" width="600" height="887" class="alignnone size-large wp-image-798" /></a>
+
+## 다음의 와이어프레임:
+
+URL &#8211; <http://daum.net>  
+<a href="/2011/01/13/795/wireframe-daum/" rel="attachment wp-att-800"><img src="/wp-content/uploads/2011/01/wireframe-daum-600x1031.gif" alt="" title="wireframe-daum" width="600" height="1031" class="alignnone size-large wp-image-800" /></a>
+
+<http://xref.kr/1>

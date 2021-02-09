@@ -1,0 +1,51 @@
+I"T<p>Ajax를 이해할 수 있는 쉬운 사이트가 있어서 소개해본다. <a href="http://www.backbase.com/index.php">BackBase</a>라는 사이트인데, Rich Internet Application Strategy “AJAX and Beyond” 라는 문구를 앞세운만큼 정말 색다른 인터페이스를 보여준다. 일반 웹사이트와는 전혀 다르고, 플래시 기반 사이트와는 비슷하면서도 또다른 Ajax의 진수를 보여주는 것 같다.</p>
+
+<p>웹에이전시인듯 싶은데, Ajax를 이용한 UI 인터페이스가 사용자들에게 얼마나 호응을 받을지가 궁금해진다. 이 회사가 대박나면, 국내 웹에이전시에도 어느정도 영향이 있으려나? ㅎㅎ</p>
+
+<p><strong>그냥 접속하면 볼 수 있는 스크린샷 :</strong></p>
+
+<p><a href="/files/img/2005-05/backbase-1.gif"><img src="/files/img/2005-05/_backbase-1.gif" width="400" height="210" alt="그냥 보면 이렇게~" /></a></p>
+
+<p><strong>자바스크립트를 끄면 볼 수 있는 스크린샷 :</strong></p>
+
+<p><a href="/files/img/2005-05/backbase-2.gif"><img src="/files/img/2005-05/_backbase-2.gif" width="400" height="210" alt="자바스크립트를 끄면 보여요~" /></a></p>
+
+<p><strong>The code sample also shows the basics of a BXML page :</strong></p>
+
+<pre><title>
+  NavBox
+</title>
+
+
+<b>Promotional material</b>
+Our collection of promotional material for this movie consists of:
+
+
+<ul>
+  <li>
+    Taglines
+  </li>
+  
+  
+  <li>
+    Trailers
+  </li>
+  
+  
+  <li>
+    Posters
+  </li>
+  
+  
+  <li>
+    Photo gallery
+  </li> 
+</ul>
+
+
+<b>Promotional material</b>
+</pre>
+
+<p>html 코드만 특별한 게 없는데, 그렇게 멋진 사이트를 만들다니.. 놀라울 뿐이다. +_+<br />
+Ajax에 대한 자세한 설명은 <a href="http://www.adaptivepath.com/publications/essays/archives/000385.php">Adaptive path</a>에서 확인할 수 있음.</p>
+:ET
