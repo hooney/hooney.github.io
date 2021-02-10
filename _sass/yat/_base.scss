@@ -63,6 +63,13 @@ img {
 }
 
 
+img + br + em,
+img + em {
+    font-style: normal;
+    display: inherit;
+    text-align: center;
+    font-size: 90%;
+}
 
 /**
  * Figures
@@ -288,4 +295,3 @@ table {
   background-position: center center;
   overflow: hidden;
 }
-
