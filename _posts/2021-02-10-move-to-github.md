@@ -12,9 +12,6 @@ image: /img/maxresdefault.jpg
 
 ![Github Page](/img/maxresdefault.jpg)*Github Page Image from https://pages.github.com/*
 
-오랫동안 방치해온 도메인과 블로그하서, 접는(폐쇄하는)게 순리라고 여겼는데요.
-새해를 맞이해 인공호흡기를 연장해보렵니다.
-
 2005년부터 한결같이 사용해온 워드프레스를 벗어나는 게 막막했지만,
 기존 데이터를 변환해주는 플러그인이 있어서, 쉽게 이동할 수 있었네요.
 
