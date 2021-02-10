@@ -1,9 +1,10 @@
 ---
-id: 869
 title: Github 페이지로 이동
 author: Hooney
 layout: post
 tag: [github, page, server, hosting]
+image: /img/maxresdefault.jpg
+
 ---
 
 오랫동안 고민하다가 호스팅을 [Github Page](https://pages.github.com)로 이동했습니다.
