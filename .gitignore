@@ -2,6 +2,7 @@
 .bundle
 .sass-cache
 _site
+.jekyll-cache/
 Gemfile.lock
 .DS_Store
 
@@ -14,4 +15,3 @@ Gemfile.lock
 # force-add it if you just created it
 !/.gitignore
 # ignore all . folders but include . files
-.*/
