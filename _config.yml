@@ -135,7 +135,7 @@ defaults:
 #     banner: "Your image url"
 
 # Pagination setting
-paginate: 5
+paginate: 10
 
 # Disqus comments
 # disqus:
