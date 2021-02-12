@@ -3,14 +3,14 @@ title: Github 페이지로 이동
 author: Hooney
 layout: post
 tag: [github, page, server, hosting]
-image: /img/maxresdefault.jpg
+image: /assets/img/maxresdefault.jpg
 
 ---
 
 오랫동안 고민하다가 호스팅을 [Github Page](https://pages.github.com)로 이동했습니다.
 매번 워드프레스 코어 및 플러그인을 업데이트하는 것도 벅찼기에, 정적 페이지를 쉽게 만들고 무료로 호스팅해주는 [Jekyll](https://jekyllrb.com/) 기반의 Gihub Page가 최선이라 판단했습니다. 지난 2년간 인공호흡기가 되어준 [AWS Lightsail](https://aws.amazon.com/ko/lightsail/)에게 감사드립니다.
 
-![Github Page](/img/maxresdefault.jpg)*Github Page Image from https://pages.github.com/*
+![Github Page](/assets/img/maxresdefault.jpg)*Github Page Image from https://pages.github.com/*
 
 2005년부터 한결같이 사용해온 워드프레스를 벗어나는 게 막막했지만,
 기존 데이터를 변환해주는 플러그인이 있어서, 쉽게 이동할 수 있었네요.

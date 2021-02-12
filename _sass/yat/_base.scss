@@ -71,6 +71,15 @@ img + em {
     font-size: 90%;
 }
 
+.post .post-content img.left, .post .post-content svg.left, .post .post-content iframe.left {
+  float: left;
+  margin: 0 18px 0 0;
+}
+.post .post-content img.right, .post .post-content svg.right, .post .post-content iframe.right {
+  float: right;
+  margin: 0 0 0 18px;
+}
+
 /**
  * Figures
  */

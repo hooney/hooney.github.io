@@ -3,7 +3,7 @@ title: 그래도 봄은 온다.
 author: Hooney
 layout: post
 tag: [jeju, spring, season]
-image: /img/rape.jpg
+image: /assets/img/rape.jpg
 
 ---
 
@@ -13,7 +13,7 @@ image: /img/rape.jpg
 
 ## 그래도 봄은 오는구나.
 
-![산방산 유채꽃](/img/rape.jpg)*제주 산방산 유채꽃*
+![산방산 유채꽃](/assets/img/rape.jpg)*제주 산방산 유채꽃*
 
 지난 1년은 코로나19로 인해 사람을 만나고 관계를 맺기에 어려운 한 해였다. 기존에 잘 알던 사람과 업무 또는 기능적인 대화를 나누는 건 어렵지 않았으나, 새로운 사람을 알아가고 교류하는 건 쉽지 않았다. 그나마 유일한 대체 수단인 화상미팅(통화 포함)마저도 눈빛을 나누고 공감하며 신뢰를 쌓기에는 부족했다.
 
