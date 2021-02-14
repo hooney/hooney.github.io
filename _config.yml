@@ -161,4 +161,16 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
-  - jekyll-compress-images
+
+imageoptim :
+  pngout : false
+  svgo : false
+  verbose : false
+
+jekyll-spaceship:
+  # default enabled processors
+  processors:
+    - table-processor
+    - plantuml-processor
+    - polyfill-processor
+    - media-processor

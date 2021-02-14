@@ -62,13 +62,13 @@ img {
   vertical-align: middle;
 }
 
-
+iframe + div,
 img + br + em,
 img + em {
     font-style: normal;
     display: inherit;
     text-align: center;
-    font-size: 90%;
+    margin-bottom: 18px !important;
 }
 
 .post .post-content img.left, .post .post-content svg.left, .post .post-content iframe.left {
