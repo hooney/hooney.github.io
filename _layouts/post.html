@@ -56,8 +56,6 @@ sidebar:
     </div>
     {%- endif -%}
 
-    {%- assign result = hidden | where_exp: "item", "item == 'comments'" -%}
-    {%- if result.size == 0 -%}
     {% if jekyll.environment == "production" %}
     <div class="post-comments" id="comments">
       <div class="utterances"></div>
@@ -73,20 +71,8 @@ sidebar:
         comments.setAttribute('theme', utterTheme);
         document.getElementById('comments').appendChild(comments);
       </script>
-      {% endif %}
-      {%- if page.comments != false -%}
-
-      {%- if site.disqus.shortname -%}
-      {%- include extensions/comments/disqus.html -%}
-      {%- endif -%}
-
-      {%- if site.gitment.username -%}
-      {%- include extensions/comments/gitment.html -%}
-      {%- endif -%}
-
-      {%- endif -%}
     </div>
-    {%- endif -%}
+    {% endif %}
 
   </section>
 </div>
