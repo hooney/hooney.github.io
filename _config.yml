@@ -174,3 +174,18 @@ jekyll-spaceship:
     - plantuml-processor
     - polyfill-processor
     - media-processor
+
+exclude:
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README.md
+  - script.py
+  - changelog.md
+  - "*.Rmd"
+  - .git*
