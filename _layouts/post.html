@@ -4,7 +4,7 @@ banner:
 banner_html: post-header.html
 hidden: []
 sidebar:
-  - article-menu
+- article-menu
 ---
 
 <div class="post">
@@ -29,14 +29,14 @@ sidebar:
     {%- if result.size == 0 -%}
     <div class="post-nav">
       {%- if page.previous -%}
-        <a class="previous" href="{{ page.previous.url | relative_url }}" title="{{
+      <a class="previous" href="{{ page.previous.url | relative_url }}" title="{{
           page.previous.title | escape }}">{{ page.previous.title | escape | truncatewords: 6 }}</a>
       {%- else -%}
       <span></span>
       {%- endif -%}
 
       {%- if page.next -%}
-        <a class="next" href="{{ page.next.url | relative_url }}" title="{{ page.next.title | escape }}">{{ page.next.title | escape | truncatewords: 6 }}</a>
+      <a class="next" href="{{ page.next.url | relative_url }}" title="{{ page.next.title | escape }}">{{ page.next.title | escape | truncatewords: 6 }}</a>
       {%- else -%}
       <span></span>
       {%- endif -%}
@@ -58,6 +58,7 @@ sidebar:
 
     {%- assign result = hidden | where_exp: "item", "item == 'comments'" -%}
     {%- if result.size == 0 -%}
+    {% if jekyll.environment == "production" %}
     <div class="post-comments" id="comments">
       <div class="utterances"></div>
       <script>
@@ -72,7 +73,7 @@ sidebar:
         comments.setAttribute('theme', utterTheme);
         document.getElementById('comments').appendChild(comments);
       </script>
-
+      {% endif %}
       {%- if page.comments != false -%}
 
       {%- if site.disqus.shortname -%}

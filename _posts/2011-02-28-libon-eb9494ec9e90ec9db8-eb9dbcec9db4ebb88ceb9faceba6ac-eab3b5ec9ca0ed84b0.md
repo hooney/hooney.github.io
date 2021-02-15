@@ -1,19 +1,20 @@
 ---
-id: 812
 title: 'libon: 디자인 라이브러리 공유터'
-date: 2011-02-28T09:39:07+09:00
+id: 812
+date: '2011-02-28 09:39:07 +0900'
 author: Hooney
 layout: post
 guid: http://hooney.net/?p=812
-permalink: /post/812
+permalink: "/post/812"
 categories:
-  - 웹 디자인
-  - 추천/리뷰
-  - 후니넷
+- 웹 디자인
+- 추천/리뷰
+- 후니넷
 ---
+
 디자인 라이브러리 공유터를 목표로 [libon](http://libon.kr "리본, 웹 디자인 리소스 라이브러리")을 오픈했습니다. Libon.kr은 도서관 또는 자료실을 의미하는 library의 약자인 “lib”과 위를 의미하는 “on”이 결합된 단어로, 한글로 리본이라고 부릅니다.
 
-[<img class="alignnone size-full wp-image-813" title="about-hooney" src="/files/img/about-hooney.gif" alt="" width="600" />](http://libon.kr)
+[<img class="alignnone size-full wp-image-813" title="about-hooney" src="/assets/img/about-hooney.gif" alt="" width="600" />](http://libon.kr)
 
 리본은 세상의 모든 디자인 리소스를 공유하고자 합니다. 자신의 디자인 소스를 공유하거나 다른이의 디자인 소스를 재공유하고, 공유된 디자인 소스에 메타정보를 추가하여 재가공하며, 서로 의견을 나눠서 새로운 가치를 만들어 내고자 합니다.
 

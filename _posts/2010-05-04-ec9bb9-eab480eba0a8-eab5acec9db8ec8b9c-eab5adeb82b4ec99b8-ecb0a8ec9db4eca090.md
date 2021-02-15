@@ -15,11 +15,11 @@ categories:
 
 야구에 비유하자면, 국내에선 5-Tool(타격·파워·스피드·수비·어깨)을 장착한 **추신수** 같은 선수를, 해외에선 홈런 잘 치는 **김태균** 같은 선수를 원한다.
 
-<img src="/wp-content/uploads/2010/05/tg-ss.jpg" alt="김태균과 추신수" width="500" height="359" /> 
+<img src="/wp-content/uploads/2010/05/tg-ss.jpg" alt="김태균과 추신수" width="500" height="359" />
 
-참고 사이트: 
+참고 사이트:
 
-  * <http://www.authenticjobs.com/>
-  * <http://jobs.smashingmagazine.com/>
-  * <http://www.jobkorea.co.kr/SM/search.asp?stext=front-end>
-  * <www.jobkorea.co.kr/SM/search.asp?stext=ui+engineer>
+  * <https://authenticjobs.com/>
+  * <https://jobs.smashingmagazine.com/>
+  * <https://jobkorea.co.kr/SM/search.asp?stext=front-end>
+  * <https://jobkorea.co.kr/SM/search.asp?stext=ui+engineer>
